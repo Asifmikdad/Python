@@ -15,3 +15,4 @@ have_money = True
 have_property = False
 
 print(have_money)
+
